@@ -15,6 +15,9 @@ public class GitHubHomework {
      */
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        
+        Car car1 = new Car("Ford", "Focus", 4, "Silver");
+        car1.drive("forward");
     }
     
 }
