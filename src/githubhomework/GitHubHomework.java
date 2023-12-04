@@ -18,6 +18,9 @@ public class GitHubHomework {
         
         Car car1 = new Car("Honda", "Civic", 4, "yellow");
         car1.drive(90);
+        
+        Car car2 = new Car("Ford", "Fiesta", 4, "red");
+        car2.drive(75);
     }
     
 }
